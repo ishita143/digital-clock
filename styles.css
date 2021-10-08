@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+
+}
+
+.clock{
+    color: #17D4EF;
+    font-size: 65px;
+    font-family: 'Akronim', cursive; 
+    letter-spacing: 7px;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
